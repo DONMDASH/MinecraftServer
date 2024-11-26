@@ -2132,3 +2132,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Nov2024 22:00:28.574] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Removed old backup 2024-11-26_16-30-0.zip
 [26Nov2024 22:00:28.575] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: File missing, removing from backups /workspaces/MinecraftServer/servidor_minecraft/backups/2024-11-26_16-30-0.zip
 [26Nov2024 22:00:28.575] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/MinecraftServer/servidor_minecraft/backups/backups.json
+[26Nov2024 22:22:18.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Nov2024 22:22:18.336] [Server thread/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Shutdown Complete
+[26Nov2024 22:22:18.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Nov2024 22:22:18.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Nov2024 22:22:18.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Nov2024 22:22:18.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Nov2024 22:22:18.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Nov2024 22:22:18.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/sgjourney:abydos
+[26Nov2024 22:22:18.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/sgjourney:cavum_tenebrae
+[26Nov2024 22:22:18.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Nov2024 22:22:18.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/sgjourney:chulak
+[26Nov2024 22:22:18.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/sgjourney:lantea
+[26Nov2024 22:22:18.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[26Nov2024 22:22:18.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Nov2024 22:22:18.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Nov2024 22:22:18.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (abydos): All chunks are saved
+[26Nov2024 22:22:18.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cavum_tenebrae): All chunks are saved
+[26Nov2024 22:22:18.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Nov2024 22:22:18.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (chulak): All chunks are saved
+[26Nov2024 22:22:18.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lantea): All chunks are saved
+[26Nov2024 22:22:18.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[26Nov2024 22:22:18.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Nov2024 22:22:18.833] [Server thread/INFO] [WebDisplays/]: Miniserv server stopped
+[26Nov2024 22:22:18.848] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[26Nov2024 22:22:18.848] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Unloading EnderTank Data
+[26Nov2024 22:22:18.848] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Finished Unloading EnderTank Data
+[26Nov2024 22:22:18.849] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Unloading EnderChest Data
+[26Nov2024 22:22:18.849] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Finished Unloading EnderChest Data
+[26Nov2024 22:22:18.876] [Server thread/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
