@@ -3776,9 +3776,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nuclearcraft_tin_dust": {
+    "criteria": {
+      "has_ore": "2024-11-26 20:49:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2024-11-26 20:43:54 +0000"
+    },
+    "done": true
+  },
+  "nuclearcraft:recipes/misc/blast_tin_dust": {
+    "criteria": {
+      "has_ore": "2024-11-26 20:49:44 +0000"
     },
     "done": true
   },
