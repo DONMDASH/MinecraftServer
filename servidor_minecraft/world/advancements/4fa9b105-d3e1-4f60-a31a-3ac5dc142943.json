@@ -5084,6 +5084,12 @@
     },
     "done": true
   },
+  "nuclearcraft:recipes/misc/actuator": {
+    "criteria": {
+      "item": "2024-12-02 17:33:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-02 16:01:48 +0000"
