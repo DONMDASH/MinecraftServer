@@ -2007,3 +2007,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Dec2024 19:09:59.230] [Server thread/INFO] [chiefarug.mods.systeams.Systeams/]: Welcome aboard Captain. All Systeams online
 [03Dec2024 19:09:59.234] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (-2 unused), uncached profiles: 0, total profiles: 4
 [03Dec2024 19:15:46.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eldemedazh was slain by Slime
+[03Dec2024 19:30:00.012] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[03Dec2024 19:30:00.014] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Found world folder at /workspaces/MinecraftServer/servidor_minecraft/./world/.
+[03Dec2024 19:30:00.102] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Last backup size: 2.9MB Current world size: 12.2MB Current Available space: 9.2GB ExpectedSize 3.1MB
+[03Dec2024 19:30:00.116] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to true
+[03Dec2024 19:30:00.117] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to true
+[03Dec2024 19:30:00.118] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world sgjourney:abydos save state to true
+[03Dec2024 19:30:00.118] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to true
+[03Dec2024 19:30:00.119] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world sgjourney:cavum_tenebrae save state to true
+[03Dec2024 19:30:00.122] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world sgjourney:lantea save state to true
+[03Dec2024 19:30:00.124] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world sgjourney:chulak save state to true
+[03Dec2024 19:30:00.124] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to true
+[03Dec2024 19:30:00.133] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/MinecraftServer/servidor_minecraft/backups/backups.json
+[03Dec2024 19:30:00.157] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Waiting for world save to complete.
+[03Dec2024 19:30:00.917] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Detected MC Version 1.20.1, Data version 3465
+[03Dec2024 19:30:00.918] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Save Name: world
+[03Dec2024 19:30:00.955] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/MinecraftServer/servidor_minecraft/./world/./DIM-1
+[03Dec2024 19:30:00.963] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder sgjourney:lantea
+[03Dec2024 19:30:00.964] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder sgjourney:abydos
+[03Dec2024 19:30:00.966] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder sgjourney:cavum_tenebrae
+[03Dec2024 19:30:00.967] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder sgjourney:chulak
+[03Dec2024 19:30:00.968] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ae2:spatial_storage
+[03Dec2024 19:30:00.969] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/MinecraftServer/servidor_minecraft/./world/./DIM1
+[03Dec2024 19:30:05.261] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup preview created, Scan took 682ms, Capture took 4047ms
+[03Dec2024 19:30:06.065] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to false
+[03Dec2024 19:30:06.066] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to false
+[03Dec2024 19:30:06.067] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world sgjourney:abydos save state to false
+[03Dec2024 19:30:06.068] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to false
+[03Dec2024 19:30:06.069] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world sgjourney:cavum_tenebrae save state to false
+[03Dec2024 19:30:06.070] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world sgjourney:lantea save state to false
+[03Dec2024 19:30:06.070] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world sgjourney:chulak save state to false
+[03Dec2024 19:30:06.070] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to false
+[03Dec2024 19:30:06.261] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup size 3.0MB World Size 12.2MB
+[03Dec2024 19:30:06.270] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/MinecraftServer/servidor_minecraft/backups/backups.json
+[03Dec2024 19:30:06.272] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/MinecraftServer/servidor_minecraft/backups/2024-12-3_19-30-0.zip size: 3.0MB Took: 0m, 5s, 944ms Sha1: f6c513cd2996ef12ebca1d58387bb2afc9699092
+[03Dec2024 19:30:29.366] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: More backups than 5 found, Removing oldest backup
+[03Dec2024 19:30:29.367] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Removed old backup 2024-12-3_4-0-0.zip
+[03Dec2024 19:30:29.368] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: File missing, removing from backups /workspaces/MinecraftServer/servidor_minecraft/backups/2024-12-3_4-0-0.zip
+[03Dec2024 19:30:29.370] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/MinecraftServer/servidor_minecraft/backups/backups.json

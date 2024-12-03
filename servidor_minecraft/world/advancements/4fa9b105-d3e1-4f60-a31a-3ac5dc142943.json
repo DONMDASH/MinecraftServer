@@ -5222,5 +5222,11 @@
     },
     "done": true
   },
+  "exnihilosequentia:recipes/misc/ens_copper_ingot_from_nugget": {
+    "criteria": {
+      "has_the_recipe": "2024-12-03 19:28:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
