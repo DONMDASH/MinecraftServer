@@ -5174,6 +5174,12 @@
     },
     "done": true
   },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2024-12-03 02:29:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-12-03 01:41:53 +0000"
