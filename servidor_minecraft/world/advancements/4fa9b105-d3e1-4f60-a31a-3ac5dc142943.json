@@ -5174,6 +5174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-03 03:00:05 +0000"
+    },
+    "done": true
+  },
   "create:saw_processing": {
     "criteria": {
       "0": "2024-12-03 02:29:49 +0000"
@@ -5186,9 +5192,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-12-03 03:00:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
     "criteria": {
       "has_item": "2024-12-03 01:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-03 03:00:05 +0000"
     },
     "done": true
   },
