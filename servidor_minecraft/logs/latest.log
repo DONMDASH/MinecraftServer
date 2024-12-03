@@ -2006,3 +2006,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Dec2024 19:09:59.217] [Server thread/INFO] [Jade/]: Syncing config to eldemedazh (4fa9b105-d3e1-4f60-a31a-3ac5dc142943)
 [03Dec2024 19:09:59.230] [Server thread/INFO] [chiefarug.mods.systeams.Systeams/]: Welcome aboard Captain. All Systeams online
 [03Dec2024 19:09:59.234] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (-2 unused), uncached profiles: 0, total profiles: 4
+[03Dec2024 19:15:46.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eldemedazh was slain by Slime
