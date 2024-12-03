@@ -5222,6 +5222,12 @@
     },
     "done": true
   },
+  "exnihilosequentia:recipes/misc/ens_iron_mesh": {
+    "criteria": {
+      "has_mesh": "2024-12-03 20:19:00 +0000"
+    },
+    "done": true
+  },
   "exnihilosequentia:recipes/misc/ens_copper_ingot_from_nugget": {
     "criteria": {
       "has_the_recipe": "2024-12-03 19:28:56 +0000"
