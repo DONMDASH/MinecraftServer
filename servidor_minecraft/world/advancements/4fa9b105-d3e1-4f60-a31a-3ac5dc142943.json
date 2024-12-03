@@ -5253,6 +5253,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/blasting/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_dust": "2024-12-03 22:26:48 +0000"
+    },
+    "done": true
+  },
   "exnihilosequentia:recipes/misc/ens_copper_ingot_from_nugget": {
     "criteria": {
       "has_the_recipe": "2024-12-03 19:28:56 +0000"
