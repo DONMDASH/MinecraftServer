@@ -2054,3 +2054,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Dec2024 01:40:27.105] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Leak2123.
 [04Dec2024 01:40:27.107] [Server thread/INFO] [Jade/]: Syncing config to Leak2123 (8265edcb-7272-447b-833a-86693969b52c)
 [04Dec2024 01:40:27.110] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (-2 unused), uncached profiles: 0, total profiles: 4
+[04Dec2024 01:47:07.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leak2123 burned to death
