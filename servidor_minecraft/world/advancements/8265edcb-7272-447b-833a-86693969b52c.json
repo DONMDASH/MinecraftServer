@@ -3860,6 +3860,18 @@
     },
     "done": true
   },
+  "nuclearcraft:recipes/misc/turbine_steel_rotor_blade": {
+    "criteria": {
+      "item": "2024-12-04 02:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nuclearcraft_steel_plate": {
+    "criteria": {
+      "has_ore": "2024-12-04 02:21:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nuclearcraft_tin_plate": {
     "criteria": {
       "has_ore": "2024-12-04 02:14:01 +0000"
