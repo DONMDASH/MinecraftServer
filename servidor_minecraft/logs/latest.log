@@ -2245,3 +2245,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Dec2024 04:00:25.193] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Removed old backup 2024-12-4_1-30-0.zip
 [04Dec2024 04:00:25.193] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: File missing, removing from backups /workspaces/MinecraftServer/servidor_minecraft/backups/2024-12-4_1-30-0.zip
 [04Dec2024 04:00:25.194] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/MinecraftServer/servidor_minecraft/backups/backups.json
+[04Dec2024 04:17:47.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leak2123 lost connection: Disconnected
+[04Dec2024 04:17:47.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leak2123 left the game
