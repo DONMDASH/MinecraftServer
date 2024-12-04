@@ -3872,9 +3872,39 @@
     },
     "done": true
   },
+  "exmachinis:recipes/misc/flux_compactor": {
+    "criteria": {
+      "has_anvil": "2024-12-04 02:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-04 02:42:18 +0000"
+    },
+    "done": true
+  },
+  "architects_palette:recipes/building_blocks/stonecutting/sheet_metal_block_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-04 02:42:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nuclearcraft_tin_plate": {
     "criteria": {
       "has_ore": "2024-12-04 02:14:01 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2024-12-04 02:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-04 02:42:18 +0000"
     },
     "done": true
   },
