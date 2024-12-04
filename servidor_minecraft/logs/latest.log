@@ -2048,3 +2048,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Dec2024 01:30:25.194] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Removed old backup 2024-12-3_21-0-0.zip
 [04Dec2024 01:30:25.195] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: File missing, removing from backups /workspaces/MinecraftServer/servidor_minecraft/backups/2024-12-3_21-0-0.zip
 [04Dec2024 01:30:25.196] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/MinecraftServer/servidor_minecraft/backups/backups.json
+[04Dec2024 01:40:23.062] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Leak2123 is 8265edcb-7272-447b-833a-86693969b52c
+[04Dec2024 01:40:26.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leak2123[/127.225.220.22:34053] logged in with entity id 438 at (7.4726613361107965, -63.5, 3.518343272291509)
+[04Dec2024 01:40:26.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leak2123 joined the game
+[04Dec2024 01:40:27.105] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Leak2123.
+[04Dec2024 01:40:27.107] [Server thread/INFO] [Jade/]: Syncing config to Leak2123 (8265edcb-7272-447b-833a-86693969b52c)
+[04Dec2024 01:40:27.110] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (-2 unused), uncached profiles: 0, total profiles: 4
