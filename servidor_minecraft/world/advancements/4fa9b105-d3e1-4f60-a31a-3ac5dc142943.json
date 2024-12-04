@@ -5223,15 +5223,21 @@
     },
     "done": true
   },
+  "exnihilosequentia:recipes/misc/ens_copper_ingot_from_nugget": {
+    "criteria": {
+      "has_the_recipe": "2024-12-03 19:28:56 +0000"
+    },
+    "done": true
+  },
   "exnihilosequentia:recipes/misc/ens_iron_mesh": {
     "criteria": {
       "has_mesh": "2024-12-03 20:19:00 +0000"
     },
     "done": true
   },
-  "create:glass_pipe": {
+  "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
-      "0": "2024-12-03 21:21:37 +0000"
+      "has_coal": "2024-12-03 20:36:13 +0000"
     },
     "done": true
   },
@@ -5253,27 +5259,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/blasting/sky_stone_block": {
-    "criteria": {
-      "has_sky_stone_dust": "2024-12-03 22:26:48 +0000"
-    },
-    "done": true
-  },
-  "exnihilosequentia:recipes/misc/ens_copper_ingot_from_nugget": {
-    "criteria": {
-      "has_the_recipe": "2024-12-03 19:28:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-12-03 21:09:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2024-12-03 20:36:13 +0000"
     },
     "done": true
   },
@@ -5286,6 +5274,18 @@
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-12-03 21:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2024-12-03 21:21:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_dust": "2024-12-03 22:26:48 +0000"
     },
     "done": true
   },

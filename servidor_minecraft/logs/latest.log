@@ -2001,3 +2001,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Dec2024 00:55:23.354] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
 [04Dec2024 01:00:00.005] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
 [04Dec2024 01:00:00.006] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[04Dec2024 01:01:09.777] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@677a9687[id=<null>,name=eldemedazh,properties={},legacy=false] (/127.201.145.37:33813) lost connection: Disconnected
+[04Dec2024 01:01:13.668] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player eldemedazh is 4fa9b105-d3e1-4f60-a31a-3ac5dc142943
+[04Dec2024 01:01:16.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eldemedazh[/127.201.145.37:45491] logged in with entity id 31 at (11.712365176951602, -61.0, 4.527752991411009)
+[04Dec2024 01:01:17.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eldemedazh joined the game
+[04Dec2024 01:01:17.779] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to eldemedazh.
+[04Dec2024 01:01:17.860] [Server thread/INFO] [Jade/]: Syncing config to eldemedazh (4fa9b105-d3e1-4f60-a31a-3ac5dc142943)
+[04Dec2024 01:01:17.868] [Server thread/INFO] [chiefarug.mods.systeams.Systeams/]: Welcome aboard Captain. All Systeams online
+[04Dec2024 01:01:17.876] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (-2 unused), uncached profiles: 0, total profiles: 4
