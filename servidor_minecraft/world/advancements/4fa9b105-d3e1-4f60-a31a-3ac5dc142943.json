@@ -5331,9 +5331,21 @@
     },
     "done": true
   },
+  "nuclearcraft:recipes/misc/blast_silver_dust": {
+    "criteria": {
+      "has_ore": "2024-12-05 02:26:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 01:54:59 +0000"
+    },
+    "done": true
+  },
+  "nuclearcraft:recipes/misc/blast_lead_dust": {
+    "criteria": {
+      "has_ore": "2024-12-05 02:26:50 +0000"
     },
     "done": true
   },
@@ -5379,6 +5391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nuclearcraft_silver_dust": {
+    "criteria": {
+      "has_ore": "2024-12-05 02:26:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 01:54:59 +0000"
@@ -5406,6 +5424,12 @@
   "nuclearcraft:recipes/misc/blast_cobalt_dust": {
     "criteria": {
       "has_ore": "2024-12-05 02:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nuclearcraft_lead_dust": {
+    "criteria": {
+      "has_ore": "2024-12-05 02:26:50 +0000"
     },
     "done": true
   },
