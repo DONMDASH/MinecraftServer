@@ -5422,6 +5422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nuclearcraft_graphite_dust": {
+    "criteria": {
+      "has_ore": "2024-12-05 04:22:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-05 03:20:00 +0000"
@@ -5479,6 +5485,12 @@
   "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-05 01:54:59 +0000"
+    },
+    "done": true
+  },
+  "nuclearcraft:recipes/misc/blast_graphite_dust": {
+    "criteria": {
+      "has_ore": "2024-12-05 04:22:58 +0000"
     },
     "done": true
   },
