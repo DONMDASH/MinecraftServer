@@ -84,3 +84,11 @@
 [05Dec2024 01:00:31.136] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Removed old backup 2024-12-4_5-0-0.zip
 [05Dec2024 01:00:31.136] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: File missing, removing from backups /workspaces/MinecraftServer/servidor_minecraft/backups/2024-12-4_5-0-0.zip
 [05Dec2024 01:00:31.137] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/MinecraftServer/servidor_minecraft/backups/backups.json
+[05Dec2024 01:14:39.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eldemedazh lost connection: Timed out
+[05Dec2024 01:14:39.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eldemedazh left the game
+[05Dec2024 01:15:03.931] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player eldemedazh is 4fa9b105-d3e1-4f60-a31a-3ac5dc142943
+[05Dec2024 01:15:07.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eldemedazh[/127.201.145.37:53105] logged in with entity id 1508 at (31.221568622784467, -62.0, 11.89706761124063)
+[05Dec2024 01:15:07.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eldemedazh joined the game
+[05Dec2024 01:15:07.448] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to eldemedazh.
+[05Dec2024 01:15:07.449] [Server thread/INFO] [Jade/]: Syncing config to eldemedazh (4fa9b105-d3e1-4f60-a31a-3ac5dc142943)
+[05Dec2024 01:15:07.450] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (-2 unused), uncached profiles: 0, total profiles: 4
