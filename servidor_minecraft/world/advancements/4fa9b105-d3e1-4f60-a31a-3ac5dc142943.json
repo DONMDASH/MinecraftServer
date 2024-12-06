@@ -5554,9 +5554,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nuclearcraft_electrum_plate": {
+    "criteria": {
+      "has_ore": "2024-12-06 22:15:46 +0000"
+    },
+    "done": true
+  },
   "nuclearcraft:recipes/misc/blast_steel_dust": {
     "criteria": {
       "has_ore": "2024-12-06 21:45:04 +0000"
+    },
+    "done": true
+  },
+  "nuclearcraft:recipes/misc/light_shielding": {
+    "criteria": {
+      "item": "2024-12-06 22:16:26 +0000"
+    },
+    "done": true
+  },
+  "nuclearcraft:recipes/misc/plate_basic": {
+    "criteria": {
+      "item": "2024-12-06 22:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nuclearcraft_lead_plate": {
+    "criteria": {
+      "has_ore": "2024-12-06 22:16:26 +0000"
+    },
+    "done": true
+  },
+  "nuclearcraft:recipes/misc/plate_basic2": {
+    "criteria": {
+      "item": "2024-12-06 22:16:00 +0000"
     },
     "done": true
   },
