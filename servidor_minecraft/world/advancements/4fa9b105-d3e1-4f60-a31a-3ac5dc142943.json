@@ -5530,6 +5530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-06 04:49:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nuclearcraft_chromium_dust": {
     "criteria": {
       "has_ore": "2024-12-06 04:17:59 +0000"
