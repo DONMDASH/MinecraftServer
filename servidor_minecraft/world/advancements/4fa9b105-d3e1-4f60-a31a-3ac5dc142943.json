@@ -5530,5 +5530,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nuclearcraft_chromium_dust": {
+    "criteria": {
+      "has_ore": "2024-12-06 04:17:59 +0000"
+    },
+    "done": true
+  },
+  "nuclearcraft:recipes/misc/blast_chromium_dust": {
+    "criteria": {
+      "has_ore": "2024-12-06 04:17:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
