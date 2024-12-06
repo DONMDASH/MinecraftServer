@@ -5548,5 +5548,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nuclearcraft_steel_dust": {
+    "criteria": {
+      "has_ore": "2024-12-06 21:45:04 +0000"
+    },
+    "done": true
+  },
+  "nuclearcraft:recipes/misc/blast_steel_dust": {
+    "criteria": {
+      "has_ore": "2024-12-06 21:45:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
