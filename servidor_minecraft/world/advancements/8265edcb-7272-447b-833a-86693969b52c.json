@@ -3860,33 +3860,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nuclearcraft_tin_plate": {
+    "criteria": {
+      "has_ore": "2024-12-04 02:14:01 +0000"
+    },
+    "done": true
+  },
   "nuclearcraft:recipes/misc/turbine_steel_rotor_blade": {
     "criteria": {
       "item": "2024-12-04 02:21:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2024-12-04 04:16:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2024-12-04 04:16:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/nuclearcraft_steel_plate": {
     "criteria": {
       "has_ore": "2024-12-04 02:21:19 +0000"
-    },
-    "done": true
-  },
-  "exmachinis:recipes/misc/flux_compactor": {
-    "criteria": {
-      "has_anvil": "2024-12-04 02:42:23 +0000"
     },
     "done": true
   },
@@ -3902,18 +3890,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2024-12-04 04:16:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nuclearcraft_tin_plate": {
-    "criteria": {
-      "has_ore": "2024-12-04 02:14:01 +0000"
-    },
-    "done": true
-  },
   "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
       "has_item": "2024-12-04 02:42:18 +0000"
@@ -3923,6 +3899,156 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-04 02:42:18 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/flux_compactor": {
+    "criteria": {
+      "has_anvil": "2024-12-04 02:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-04 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-04 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-04 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-07 02:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/misc/ens_doll_x4": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "ae2additions:recipes/misc/blocks/wireless_transceiver": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/tools/ens_diamond_crook": {
+    "criteria": {
+      "has_pebble": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_building": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_exchanging": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "ae2additions:recipes/misc/super_cell_housing": {
+    "criteria": {
+      "has_item": "2024-12-07 02:26:35 +0000"
     },
     "done": true
   },
