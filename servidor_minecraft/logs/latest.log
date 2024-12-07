@@ -318,3 +318,6 @@
 [07Dec2024 03:00:18.354] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Removed old backup 2024-12-7_0-30-0.zip
 [07Dec2024 03:00:18.354] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: File missing, removing from backups /workspaces/MinecraftServer/servidor_minecraft/backups/2024-12-7_0-30-0.zip
 [07Dec2024 03:00:18.354] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/MinecraftServer/servidor_minecraft/backups/backups.json
+[07Dec2024 03:07:27.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAkashi moved too quickly! 0.0,396.11800195156763,0.0
+[07Dec2024 03:14:52.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAkashi moved too quickly! 0.0,397.4874803457218,0.0
+[07Dec2024 03:14:59.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAkashi fell from a high place
