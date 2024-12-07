@@ -5602,6 +5602,12 @@
     },
     "done": true
   },
+  "exnihilosequentia:recipes/misc/ens_diamond_mesh": {
+    "criteria": {
+      "has_mesh": "2024-12-07 05:27:21 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
     "criteria": {
       "has_certus_quartz_dust": "2024-12-07 03:39:24 +0000"
