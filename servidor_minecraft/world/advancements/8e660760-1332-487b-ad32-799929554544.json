@@ -2361,6 +2361,12 @@
     },
     "done": true
   },
+  "exnihilosequentia:recipes/misc/ens_porcelain_clay": {
+    "criteria": {
+      "has_clay": "2024-12-07 01:24:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-07 00:53:52 +0000"
@@ -2394,6 +2400,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-07 00:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-07 01:24:24 +0000"
     },
     "done": true
   },
@@ -2472,6 +2484,12 @@
   "create:recipes/misc/crafting/appliances/clipboard_clear": {
     "criteria": {
       "has_item": "2024-12-07 00:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-07 01:24:24 +0000"
     },
     "done": true
   },
