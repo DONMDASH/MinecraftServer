@@ -2053,3 +2053,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Dec2024 17:00:19.695] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Removed old backup 2024-12-7_3-0-0.zip
 [07Dec2024 17:00:19.695] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: File missing, removing from backups /workspaces/MinecraftServer/servidor_minecraft/backups/2024-12-7_3-0-0.zip
 [07Dec2024 17:00:19.696] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/MinecraftServer/servidor_minecraft/backups/backups.json
+[07Dec2024 17:06:26.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eldemedazh moved too quickly! 0.0,396.16490843028964,0.0
