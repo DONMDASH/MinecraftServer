@@ -3950,6 +3950,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2024-12-07 04:18:47 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2024-12-07 04:19:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2024-12-07 02:26:50 +0000"
@@ -3974,9 +3986,21 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-12-07 04:16:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-07 04:17:17 +0000"
     },
     "done": true
   },
@@ -4016,6 +4040,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-07 04:19:19 +0000"
+    },
+    "done": false
+  },
   "ae2additions:recipes/misc/blocks/wireless_transceiver": {
     "criteria": {
       "has_diamond": "2024-12-07 02:26:35 +0000"
@@ -4037,6 +4067,12 @@
   "buildinggadgets2:recipes/misc/gadget_building": {
     "criteria": {
       "has_diamond": "2024-12-07 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2024-12-07 04:16:40 +0000"
     },
     "done": true
   },
