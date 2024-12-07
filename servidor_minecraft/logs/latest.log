@@ -224,3 +224,13 @@
 [07Dec2024 02:03:01.694] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to eldemedazh.
 [07Dec2024 02:03:01.697] [Server thread/INFO] [Jade/]: Syncing config to eldemedazh (4fa9b105-d3e1-4f60-a31a-3ac5dc142943)
 [07Dec2024 02:03:01.698] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (-2 unused), uncached profiles: 0, total profiles: 4
+[07Dec2024 02:17:40.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAkashi moved too quickly! 0.0,397.4874803457218,0.0
+[07Dec2024 02:23:25.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAkashi moved too quickly! 0.0,397.4874803457218,0.0
+[07Dec2024 02:23:33.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAkashi moved too quickly! 0.0,397.73944160634125,0.0
+[07Dec2024 02:23:41.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAkashi moved too quickly! 0.0,397.73944160634125,0.0
+[07Dec2024 02:23:42.936] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@145833be[id=<null>,name=Leak2123,properties={},legacy=false] (/127.165.28.135:35145) lost connection: Disconnected
+[07Dec2024 02:23:49.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAkashi moved too quickly! 0.0,397.73944160634125,0.0
+[07Dec2024 02:23:56.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAkashi moved too quickly! 0.0,397.73944160634125,0.0
+[07Dec2024 02:24:04.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAkashi moved too quickly! 0.0,397.73944160634125,0.0
+[07Dec2024 02:24:12.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAkashi moved too quickly! 0.0,397.73944160634125,0.0
+[07Dec2024 02:24:20.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsAkashi moved too quickly! 0.0,397.73944160634125,0.0
