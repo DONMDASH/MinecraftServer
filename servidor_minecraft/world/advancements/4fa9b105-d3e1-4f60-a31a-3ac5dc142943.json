@@ -5590,5 +5590,23 @@
     },
     "done": true
   },
+  "nuclearcraft:recipes/misc/blast_potassium_dust": {
+    "criteria": {
+      "has_ore": "2024-12-07 02:58:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nuclearcraft_potassium_dust": {
+    "criteria": {
+      "has_ore": "2024-12-07 02:58:40 +0000"
+    },
+    "done": true
+  },
+  "nuclearcraft:recipes/misc/gas_scrubber": {
+    "criteria": {
+      "item": "2024-12-07 02:57:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
