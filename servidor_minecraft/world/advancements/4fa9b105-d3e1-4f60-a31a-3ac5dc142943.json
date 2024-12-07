@@ -5590,9 +5590,33 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2024-12-07 03:39:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2024-12-07 03:39:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2024-12-07 03:39:24 +0000"
+    },
+    "done": true
+  },
   "nuclearcraft:recipes/misc/blast_potassium_dust": {
     "criteria": {
       "has_ore": "2024-12-07 02:58:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2024-12-07 03:39:24 +0000"
     },
     "done": true
   },
