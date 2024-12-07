@@ -162,3 +162,9 @@
 [07Dec2024 01:30:18.354] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Removed old backup 2024-12-6_23-0-0.zip
 [07Dec2024 01:30:18.354] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: File missing, removing from backups /workspaces/MinecraftServer/servidor_minecraft/backups/2024-12-6_23-0-0.zip
 [07Dec2024 01:30:18.355] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/MinecraftServer/servidor_minecraft/backups/backups.json
+[07Dec2024 01:53:06.205] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ItsAkashi is 8e660760-1332-487b-ad32-799929554544
+[07Dec2024 01:53:09.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsAkashi[/127.44.238.70:60527] logged in with entity id 5261 at (38.30044220406715, -63.5, -8.924119214835935)
+[07Dec2024 01:53:09.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsAkashi joined the game
+[07Dec2024 01:53:09.260] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to ItsAkashi.
+[07Dec2024 01:53:09.261] [Server thread/INFO] [Jade/]: Syncing config to ItsAkashi (8e660760-1332-487b-ad32-799929554544)
+[07Dec2024 01:53:09.263] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (-2 unused), uncached profiles: 0, total profiles: 4
